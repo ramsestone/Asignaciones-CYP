@@ -1,0 +1,2 @@
+315113758
+En esta asignación le dimos uso a un nuevo concepto aprendido en clase: los arreglos. Utilizamos el método de ordenamiento por burbuja mejorada que aprendimos en clase para solucionar un problema que implicaba mantener una calificación asignada a un alumno, haciendo uso de los índices de los arreglos para no revolver las calificaciones. Además quitamos alumnos duplicados y comparamos sus calificaciones para únicamente almacenar las más altas.

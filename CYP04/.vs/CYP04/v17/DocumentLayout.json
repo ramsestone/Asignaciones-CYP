@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos (Disco D)\\Personal\\Programacion\\C\u002B\u002B\\CYP04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14A32877-0CFA-48BC-9EAC-E3B381F73205}|CYP04.vcxproj|D:\\Documentos (Disco D)\\Personal\\Programacion\\C\u002B\u002B\\CYP04\\CYP04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14A32877-0CFA-48BC-9EAC-E3B381F73205}|CYP04.vcxproj|solutionrelative:CYP04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 322,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CYP04.cpp",
+              "DocumentMoniker": "D:\\Documentos (Disco D)\\Personal\\Programacion\\C\u002B\u002B\\CYP04\\CYP04.cpp",
+              "RelativeDocumentMoniker": "CYP04.cpp",
+              "ToolTip": "D:\\Documentos (Disco D)\\Personal\\Programacion\\C\u002B\u002B\\CYP04\\CYP04.cpp",
+              "RelativeToolTip": "CYP04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T02:06:10.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

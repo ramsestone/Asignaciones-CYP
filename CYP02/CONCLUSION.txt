@@ -1,0 +1,2 @@
+315113758
+En esta asignación usamos scanf para recibir dos valores de entrada dados en tipo int y ocupamos especificadores de campo para convertir esos valores a tipo char con su respectivo valor hexadecimal, respetando el formato del mapa de bits especificado.

@@ -1,0 +1,6 @@
+﻿  CYP01.cpp
+D:\Documentos (Disco D)\Personal\Programacion\C++\CYP01\CYP01\CYP01.cpp(11,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Documentos (Disco D)\Personal\Programacion\C++\CYP01\CYP01\CYP01.cpp(12,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Documentos (Disco D)\Personal\Programacion\C++\CYP01\CYP01\CYP01.cpp(13,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Documentos (Disco D)\Personal\Programacion\C++\CYP01\CYP01\CYP01.cpp(14,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CYP01.vcxproj -> D:\Documentos (Disco D)\Personal\Programacion\C++\CYP01\CYP01\x64\Debug\CYP01.exe

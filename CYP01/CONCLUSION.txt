@@ -1,0 +1,12 @@
+315113758
+La asignación nos pide usar temas previamente vistos en clase, como:
+
+1) Tipos de variable:
+En el programa podemos encontrar el uso de variables de tipo float e int. Cada una con su razón de ser.
+Usamos float para definir las variables con las que vamos a trabajar porcentajes, para ello es importante tener en cuenta los decimales y la variable de tipo float es ideal para eso. Encontramos variables de tipo int para representar las dimensiones en pixeles de la pantalla del cliente. En este caso no requerimos puntos decimal dado que los píxeles siempre se van a representar como un número entero.
+
+2) Operadores matemáticos:
+Usamos operaciones básicas para calcular las coordenadas de nuestro elemento gráfico, específicamente usamos multiplicación para las coordenadas x1 y y1 y una combinación de suma y multiplicaciones para las variables x2 y y2.
+
+3) Especificador de Formato:
+Utilizamos especificadores de formato para, en efecto, darle formato a nuestro input y nuestro output. Específicamente usamos especificadores con el formato "%5.2f" para asegurarnos que los valores de tipo float que ingresamos tengan reservados cinco espacios para los números enteros y dos espacios para los números decimales.

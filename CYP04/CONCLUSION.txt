@@ -1,0 +1,2 @@
+315113758
+El programa tiene un nivel de complejidad más alto de lo de otros programas anteriormente realizados, sin embargo es completamente viable de hacer con los temas dados en clase. Para empezar usamos un for anidado dentro de otro for, con el primero iteramos entre la cantidad de veces que el incremento nos permite en el intervalo dado por el rango de los valores y el segundo for es para calcular e^x donde x es definido como el límite inicial más el producto de la iteración actual y el incremento dado.
